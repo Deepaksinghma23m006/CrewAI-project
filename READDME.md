@@ -1,0 +1,1 @@
+CrewAI Agent with generativeAI will search recent news and gives summary/Blog
